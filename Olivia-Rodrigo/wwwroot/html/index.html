@@ -1,20 +1,109 @@
 ﻿<!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <meta charset="utf-8" />
-    <title></title>
-</head>
-    <body style="background-color: lightpink">
-        <h1 style="color:lightskyblue"> My family - Eliraz</h1>
-        <img src="../images/family.png" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Olivia Rodrigo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f9f9f9;
+        }
 
-        <h2>Family members</h2>
-        <ul>
-            <li><a href="dad.html">Father</a></li>
-            <li><a href="mother.html">mother</a></li>
-            <li><a href="big sister.html">big sister</a></li>
-            <li><a href="big brother.html">big brother</a></li>
-            <li><a href="little sister.html">little sister</a></li>
-        </ul>
+        h1 {
+            text-align: center;
+            color:black;
+            background-color: mediumpurple;
+            border: 2px solid black;
+            padding: 15px;
+            border-radius: 10px;
+        }
+
+        h2 {
+            color:black;
+        }
+
+        p, ul, li, a {
+            font-size: 1.1em;
+        }
+
+        a {
+            color: black;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .content {
+            max-width: 1000px;
+            margin: auto;
+            display: flex;
+            justify-content: space-between;
+        }
+        .left-column {
+            flex: 1; /* This column will take up the remaining space */
+            padding-right: 20px; /* Optional: Add space between the columns */
+        }
+        .right-column {
+            width: 300px; /* Set a fixed width for the image column */
+        }
+        .image-container {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        img {
+            width: 100%;
+            max-width: 300px; /* Ensure the image does not get too large */
+            border: 2px solid mediumpurple;
+            border-radius: 8px;
+        }
+
+        .box {
+            background-color: mediumpurple;
+            padding: 15px;
+            border-radius: 10px;
+            border: 2px solid black;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Olivia Rodrigo</h1>
+    <div class="content">
+        <div class="left-column">
+            <p>
+                Olivia Rodrigo is an American singer, songwriter, and actress.
+                She rose to fame with her debut album "SOUR," which achieved worldwide success.
+            </p>
+
+
+            <!-- קופסה עם רשימת השירים -->
+            <div class="box">
+                <h2>Song Links</h2>
+                <ul>
+                    <li><a href="https://www.youtube.com/watch?v=4ZRj3LtEqiI" target="_blank">drivers license</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=gNi_6U5Pm_o" target="_blank">good 4 u</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=8_RpBeU2P8Y" target="_blank">deja vu</a></li>
+                </ul>
+            </div>
+
+            <!-- קופסה עם מידע נוסף -->
+            <div class="box">
+                <h2>More Information</h2>
+                <p>For more information about Olivia Rodrigo, <a href="https://en.wikipedia.org/wiki/Olivia_Rodrigo" target="_blank">click here</a>.</p>
+            </div>
+        </div>
+        <div class="right-colum">
+            <div class="image-container">
+                <a href="https://en.wikipedia.org/wiki/Olivia_Rodrigo">
+                    <img src="G:\Final Project - Olivia Rodrigo\Final-Project--Olivia-Rodrigo\Olivia-Rodrigo\wwwroot\images\p-211736-full.jpg" alt="Olivia Rodrigo">
+                </a>
+            </div>
+        </div>
+    </div>
 </body>
 </html>

@@ -11,8 +11,4 @@
     <Content Include="C:\Users\Talmid\Downloads\family2.html" Link="family2.html" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="wwwroot\images\" />
-  </ItemGroup>
-
 </Project>
