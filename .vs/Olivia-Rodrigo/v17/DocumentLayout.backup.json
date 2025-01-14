@@ -1,14 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\Final Project - Olivia Rodrigo\\Final-Project--Olivia-Rodrigo\\",
+  "WorkspaceRootPath": "C:\\Users\\Talmid\\Final-Project--Olivia-Rodrigo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8FABA08D-BDFF-4B42-A09B-42FCE237C047}|Olivia-Rodrigo\\Olivia-Rodrigo.csproj|g:\\final project - olivia rodrigo\\final-project--olivia-rodrigo\\olivia-rodrigo\\wwwroot\\html\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8FABA08D-BDFF-4B42-A09B-42FCE237C047}|Olivia-Rodrigo\\Olivia-Rodrigo.csproj|c:\\users\\talmid\\final-project--olivia-rodrigo\\olivia-rodrigo\\wwwroot\\html\\deja vu.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FABA08D-BDFF-4B42-A09B-42FCE237C047}|Olivia-Rodrigo\\Olivia-Rodrigo.csproj|solutionrelative:olivia-rodrigo\\wwwroot\\html\\deja vu.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FABA08D-BDFF-4B42-A09B-42FCE237C047}|Olivia-Rodrigo\\Olivia-Rodrigo.csproj|c:\\users\\talmid\\final-project--olivia-rodrigo\\olivia-rodrigo\\wwwroot\\html\\good4u.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FABA08D-BDFF-4B42-A09B-42FCE237C047}|Olivia-Rodrigo\\Olivia-Rodrigo.csproj|solutionrelative:olivia-rodrigo\\wwwroot\\html\\good4u.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FABA08D-BDFF-4B42-A09B-42FCE237C047}|Olivia-Rodrigo\\Olivia-Rodrigo.csproj|c:\\users\\talmid\\final-project--olivia-rodrigo\\olivia-rodrigo\\wwwroot\\html\\driversli.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FABA08D-BDFF-4B42-A09B-42FCE237C047}|Olivia-Rodrigo\\Olivia-Rodrigo.csproj|solutionrelative:olivia-rodrigo\\wwwroot\\html\\driversli.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FABA08D-BDFF-4B42-A09B-42FCE237C047}|Olivia-Rodrigo\\Olivia-Rodrigo.csproj|c:\\users\\talmid\\final-project--olivia-rodrigo\\olivia-rodrigo\\wwwroot\\html\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8FABA08D-BDFF-4B42-A09B-42FCE237C047}|Olivia-Rodrigo\\Olivia-Rodrigo.csproj|solutionrelative:olivia-rodrigo\\wwwroot\\html\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Final Project - Olivia Rodrigo\\Final-Project--Olivia-Rodrigo\\family\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:family\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FABA08D-BDFF-4B42-A09B-42FCE237C047}|Olivia-Rodrigo\\Olivia-Rodrigo.csproj|c:\\users\\talmid\\final-project--olivia-rodrigo\\olivia-rodrigo\\wwwroot\\css\\olivia.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8FABA08D-BDFF-4B42-A09B-42FCE237C047}|Olivia-Rodrigo\\Olivia-Rodrigo.csproj|solutionrelative:olivia-rodrigo\\wwwroot\\css\\olivia.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Final Project - Olivia Rodrigo\\Final-Project--Olivia-Rodrigo\\family\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,29 +33,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "olivia.css",
+              "DocumentMoniker": "C:\\Users\\Talmid\\Final-Project--Olivia-Rodrigo\\Olivia-Rodrigo\\wwwroot\\css\\olivia.css",
+              "RelativeDocumentMoniker": "Olivia-Rodrigo\\wwwroot\\css\\olivia.css",
+              "ToolTip": "C:\\Users\\Talmid\\Final-Project--Olivia-Rodrigo\\Olivia-Rodrigo\\wwwroot\\css\\olivia.css",
+              "RelativeToolTip": "Olivia-Rodrigo\\wwwroot\\css\\olivia.css",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAACkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-14T06:30:48.633Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "deja vu.html",
+              "DocumentMoniker": "C:\\Users\\Talmid\\Final-Project--Olivia-Rodrigo\\Olivia-Rodrigo\\wwwroot\\html\\deja vu.html",
+              "RelativeDocumentMoniker": "Olivia-Rodrigo\\wwwroot\\html\\deja vu.html",
+              "ToolTip": "C:\\Users\\Talmid\\Final-Project--Olivia-Rodrigo\\Olivia-Rodrigo\\wwwroot\\html\\deja vu.html",
+              "RelativeToolTip": "Olivia-Rodrigo\\wwwroot\\html\\deja vu.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-14T07:18:23.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "good4u.html",
+              "DocumentMoniker": "C:\\Users\\Talmid\\Final-Project--Olivia-Rodrigo\\Olivia-Rodrigo\\wwwroot\\html\\good4u.html",
+              "RelativeDocumentMoniker": "Olivia-Rodrigo\\wwwroot\\html\\good4u.html",
+              "ToolTip": "C:\\Users\\Talmid\\Final-Project--Olivia-Rodrigo\\Olivia-Rodrigo\\wwwroot\\html\\good4u.html",
+              "RelativeToolTip": "Olivia-Rodrigo\\wwwroot\\html\\good4u.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-14T07:08:14.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "driversli.html",
+              "DocumentMoniker": "C:\\Users\\Talmid\\Final-Project--Olivia-Rodrigo\\Olivia-Rodrigo\\wwwroot\\html\\driversli.html",
+              "RelativeDocumentMoniker": "Olivia-Rodrigo\\wwwroot\\html\\driversli.html",
+              "ToolTip": "C:\\Users\\Talmid\\Final-Project--Olivia-Rodrigo\\Olivia-Rodrigo\\wwwroot\\html\\driversli.html",
+              "RelativeToolTip": "Olivia-Rodrigo\\wwwroot\\html\\driversli.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-14T06:52:29.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "index.html",
-              "DocumentMoniker": "G:\\Final Project - Olivia Rodrigo\\Final-Project--Olivia-Rodrigo\\Olivia-Rodrigo\\wwwroot\\html\\index.html",
+              "DocumentMoniker": "C:\\Users\\Talmid\\Final-Project--Olivia-Rodrigo\\Olivia-Rodrigo\\wwwroot\\html\\index.html",
               "RelativeDocumentMoniker": "Olivia-Rodrigo\\wwwroot\\html\\index.html",
-              "ToolTip": "G:\\Final Project - Olivia Rodrigo\\Final-Project--Olivia-Rodrigo\\Olivia-Rodrigo\\wwwroot\\html\\index.html",
+              "ToolTip": "C:\\Users\\Talmid\\Final-Project--Olivia-Rodrigo\\Olivia-Rodrigo\\wwwroot\\html\\index.html",
               "RelativeToolTip": "Olivia-Rodrigo\\wwwroot\\html\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwBgAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-12-21T12:31:15.32Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "G:\\Final Project - Olivia Rodrigo\\Final-Project--Olivia-Rodrigo\\family\\Program.cs",
-              "RelativeDocumentMoniker": "family\\Program.cs",
               "ToolTip": "G:\\Final Project - Olivia Rodrigo\\Final-Project--Olivia-Rodrigo\\family\\Program.cs",
-              "RelativeToolTip": "family\\Program.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-21T12:27:42.338Z"
             }

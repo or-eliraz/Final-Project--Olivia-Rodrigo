@@ -1,0 +1,67 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f9f9f9;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    background-color: mediumpurple;
+    border: 2px solid black;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+h2 {
+    color: black;
+}
+
+p, ul, li, a {
+    font-size: 1.1em;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+.content {
+    max-width: 1000px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.left-column {
+    flex: 1; /* This column will take up the remaining space */
+    padding-right: 30px; /* Optional: Add space between the columns */
+}
+
+.right-column {
+    width: 250px; /* Set a fixed width for the image column */
+}
+
+.image-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+img {
+    width: 100%;
+    max-width: 250px; /* Ensure the image does not get too large */
+    border: 2px solid mediumpurple;
+    border-radius: 8px;
+}
+
+.box {
+    background-color: mediumpurple;
+    padding: 15px;
+    border-radius: 10px;
+    border: 2px solid black;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,11 @@
+C:\Users\Talmid\Final-Project--Olivia-Rodrigo\Olivia-Rodrigo\obj\Debug\net8.0\Olivia-Rodrigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Talmid\Final-Project--Olivia-Rodrigo\Olivia-Rodrigo\obj\Debug\net8.0\Olivia-Rodrigo.AssemblyInfoInputs.cache
+C:\Users\Talmid\Final-Project--Olivia-Rodrigo\Olivia-Rodrigo\obj\Debug\net8.0\Olivia-Rodrigo.AssemblyInfo.cs
+C:\Users\Talmid\Final-Project--Olivia-Rodrigo\Olivia-Rodrigo\obj\Debug\net8.0\Olivia-Rodrigo.csproj.CoreCompileInputs.cache
+C:\Users\Talmid\Final-Project--Olivia-Rodrigo\Olivia-Rodrigo\obj\Debug\net8.0\Olivia-Rodrigo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Talmid\Final-Project--Olivia-Rodrigo\Olivia-Rodrigo\obj\Debug\net8.0\Olivia-Rodrigo.RazorAssemblyInfo.cache
+C:\Users\Talmid\Final-Project--Olivia-Rodrigo\Olivia-Rodrigo\obj\Debug\net8.0\Olivia-Rodrigo.RazorAssemblyInfo.cs
+C:\Users\Talmid\Final-Project--Olivia-Rodrigo\Olivia-Rodrigo\obj\Debug\net8.0\Olivia-Rodrigo.sourcelink.json
+C:\Users\Talmid\Final-Project--Olivia-Rodrigo\Olivia-Rodrigo\obj\Debug\net8.0\Olivia-Rodrigo.dll
+C:\Users\Talmid\Final-Project--Olivia-Rodrigo\Olivia-Rodrigo\obj\Debug\net8.0\refint\Olivia-Rodrigo.dll
+C:\Users\Talmid\Final-Project--Olivia-Rodrigo\Olivia-Rodrigo\obj\Debug\net8.0\Olivia-Rodrigo.pdb
