@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Olivia-Rodrigo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61dabc9706e3a36bf88b35dc9a677445d4e5077c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42e101c6574376eb22a5415ebfde2d7c3fbf5ad3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Olivia-Rodrigo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Olivia-Rodrigo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
